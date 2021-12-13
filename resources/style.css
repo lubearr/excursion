@@ -9,15 +9,34 @@ h1 {
   font-weight: normal;
 }
 
-header {
-  text-align: center;
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
 }
 
-header a {
+a {
   color: Aquamarine;
   font-size: 16px;
 }
 
-#vidcontainer {
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+header {
   text-align: center;
+}
+
+.vidcontainer {
+  text-align: center;
+}
+
+.info {
+  text-align: center;
+}
+
+.info img {
+  width: 80%;
 }
