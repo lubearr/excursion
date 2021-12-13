@@ -25,18 +25,15 @@ p {
   font-size: 21px;
 }
 
-header {
-  text-align: center;
-}
-
-.vidcontainer {
-  text-align: center;
-}
-
-.info {
+header, footer, .vidcontainer, .info {
   text-align: center;
 }
 
 .info img {
   width: 80%;
+}
+
+.copyright {
+  color: gray;
+  text-align: right;
 }
